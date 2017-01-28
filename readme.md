@@ -2,6 +2,10 @@
 
 Simple peer-to-peer chat application
 
+## Architecture
+
+peer1 <---> peer2 <---> peer3 
+
 ## Usage
 
 #### Install
@@ -9,11 +13,6 @@ Simple peer-to-peer chat application
 ```sh
 $ npm install
 ```
-
-#### Architecture
-
-peer1 <---> peer2 <---> peer3 
-
 #### Connect peer1 peer2 and peer3 
 
 ```sh
